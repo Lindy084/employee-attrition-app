@@ -50,12 +50,6 @@ Ensure these are present in your project folder:
 
 ---
 
-## 📸 Screenshots
-
-<em>(Add screenshots here after deploying your app!)</em>
-
----
-
 ## 👩‍💻 Developer
 
 **Lindiwe Ndlazi**  
