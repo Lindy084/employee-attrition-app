@@ -28,12 +28,12 @@ Employee turnover can be costly and disruptive. This AI-powered tool allows HR t
 
 ## 📝 How to Use
 
-1. **Visit the App** (after deployment)
-2. Choose between:
+1. **Visit the App https://lindy084-employee-attrition-app-app-nnmbgo.streamlit.app/
+3. Choose between:
    - `📝 Single Prediction` – Manually input details via sidebar
    - `📥 Bulk Prediction` – Upload a CSV file with employee records
-3. View prediction results and charts
-4. Download the results as a CSV file
+4. View prediction results and charts
+5. Download the results as a CSV file
 
 > 📁 Sample CSV provided: `sample_employees.csv`
 
